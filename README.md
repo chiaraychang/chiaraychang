@@ -100,7 +100,7 @@ SAA Internship offered, Microsoft Student Program - Taiwan					      06/2017
 [facebook]: https://www.facebook.com/chia.r.chang
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: www.linkedin.com/in/家睿-張-0a048a1a4
+[linkedin]: www.linkedin.com/in/chiaraychang-0a048a1a4
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
