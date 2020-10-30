@@ -8,12 +8,14 @@
 - ⚡ Fun fact: I love to play baseball⚾️ and basketball🏀
 
 ## 🎓EDUCATION
+<!-- EDUCATION:START -->
 #### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan		   09/2018 - 06/2021
  - Achieved GPA 3.85/4.3, major in Machine Learning
  - Key courses completed: Digital image processing, Data Structures and Object-oriented Programming, Operating system, Discrete math, Algorithm, Deep Learning and Practice, Deep Learning Systems and Inference Realization, Javascript web programming, Linear algebra, Statistics
 #### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2018 - 06/2021
 #### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2014 - 06/2018
 #### English Language Summer Course, Oxford School of English - UK			   06/2014 - 08/2014
+<!-- EDUCATION:END -->
 
 ## 💻PROJECT EXPERIENCE
 #### Thesis Project - Automatic Diagnosis Aid System Based on Lung Cytological Images using Convolutional Neural Network, NCTU							   		   09/2019 - 06/2021
@@ -43,15 +45,16 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/facebook-official-512.png" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Python" width="26px" src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" />][cssplaylist]
@@ -101,6 +104,7 @@
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/chiaraychang/?hl=zh-tw
 [linkedin]: https://www.linkedin.com/in/chiaraychang-0a048a1a4
+[github]: https://github.com/chiaraychang/chiaraychang
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
