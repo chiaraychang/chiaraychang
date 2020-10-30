@@ -62,7 +62,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="C" width="26px" src="https://img.favpng.com/10/23/21/c-programming-language-icon-png-favpng-878WK0RF2zxn7b6TimT7zquZN.jpg" />][github]
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][github]
-[<img align="left" alt="Pytorch" width="26px" src="https://www.clipartmax.com/png/small/288-2883061_pytorch-logo-empty-background.png" />][github]
+[<img align="left" alt="Pytorch" width="26px" src="https://www.freepngimg.com/thumb/symbol/72540-network-neural-recurrent-deep-database-pytorch-artificial.png" />][github]
 [<img align="left" alt="NumPy" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][github]
 [<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
