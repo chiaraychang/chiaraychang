@@ -21,7 +21,7 @@
  - Classified and marked malignant cells with classification and semantic segmentation models
 #### Side Project - Baseball pitch type prediction using InceptionV3 and LSTM		   07/2019 - 08/2019
 #### School Project - Multi-Robot networked systems with reinforcement learning	 	   02/2017 –06/2017      
-          
+---
 ## 🏆AWARDS
 #### Final round, Automated Optical Inspection, Microsoft x Taiwan Semiconductor Manufacturing Company (TSMC) CareerHack                       	   						   11/2019 - 02/2020
  - Successfully classified defective fabric images from normal fabric images with only 10 training images by L0 gradient minimization, superpixel algorithm, and few-shot learning
@@ -30,24 +30,23 @@
  - Predicted the Nickel price of October 2019 using LSTM encoder-decoder architecture with attention layer
 #### 3rd place, Final Competition of TSMC Interns, TSMC					   07/2020 - 09/2020
  - Integrated circuit anomaly detection by PCA and CNN models for lithography machines
-
+---
 ## WORK EXPERIENCE
 #### Information Technology Intern, TSMC - Taiwan 		 			   07/2020 - 09/2020
  - lithography machines’ system maintenance and debugging with C++ code 
 #### Teaching Assistant of Microprocessor, NCTU - Taiwan		                         	   09/2019 - 06/2020
 #### SAA Internship offered, Microsoft Student Program - Taiwan					      06/2017
-
+---
 ## RELEVANT SKILLS
  - Technical Skills: Python, Pytorch, NumPy, Keras, C/C++, R, HTML, CSS, Javascript, MATLAB, Arduino
  - Language: English, Mandarin, Taiwanese, Japanese
-
+---
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/facebook-official-512.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -75,32 +74,9 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Clone GOOGLE with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiaraychang&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/chia.r.chang
-[twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/chiaraychang/?hl=zh-tw
 [linkedin]: https://www.linkedin.com/in/chiaraychang-0a048a1a4
 [github]: https://github.com/chiaraychang/chiaraychang
