@@ -65,9 +65,8 @@
 [<img align="left" alt="Pytorch" width="26px" src="https://www.freepngimg.com/thumb/symbol/72540-network-neural-recurrent-deep-database-pytorch-artificial.png" />][github]
 [<img align="left" alt="NumPy" width="26px" src="https://p.kindpng.com/picc/s/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png" />][github]
 [<img align="left" alt="R" width="26px" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" />][github]
-[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
+[<img align="left" alt="Matlab" width="26px" src="https://pages.uncc.edu/techne/wp-content/uploads/sites/93/2013/12/matlab-logo.jpg" />][github]
 [<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 
 <br />
 <br />
