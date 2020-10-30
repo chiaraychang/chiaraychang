@@ -60,7 +60,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="C" width="26px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />][github]
+[<img align="left" alt="C" width="26px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" />][github]
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][github]
 [<img align="left" alt="Pytorch" width="26px" src="https://www.freepngimg.com/thumb/symbol/72540-network-neural-recurrent-deep-database-pytorch-artificial.png" />][github]
 [<img align="left" alt="NumPy" width="26px" src="https://p.kindpng.com/picc/s/713-7136289_rougier-numpy-logo-name-below-02-python-numpy.png" />][github]
