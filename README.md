@@ -7,16 +7,15 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play baseball⚾️ and basketball🏀
 
+---
 ## 🎓EDUCATION
-<!-- EDUCATION:START -->
 #### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan		   09/2018 - 06/2021
  - Achieved GPA 3.85/4.3, major in Machine Learning
  - Key courses completed: Digital image processing, Data Structures and Object-oriented Programming, Operating system, Discrete math, Algorithm, Deep Learning and Practice, Deep Learning Systems and Inference Realization, Javascript web programming, Linear algebra, Statistics
 #### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2018 - 06/2021
 #### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2014 - 06/2018
 #### English Language Summer Course, Oxford School of English - UK			   06/2014 - 08/2014
-<!-- EDUCATION:END -->
-
+---
 ## 💻PROJECT EXPERIENCE
 #### Thesis Project - Automatic Diagnosis Aid System Based on Lung Cytological Images using Convolutional Neural Network, NCTU							   		   09/2019 - 06/2021
  - Classified and marked malignant cells with classification and semantic segmentation models
@@ -54,7 +53,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][cssplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Python" width="26px" src="http://clipart-library.com/image_gallery2/Python-Logo-Free-Download-PNG.png" />][cssplaylist]
