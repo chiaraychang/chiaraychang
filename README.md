@@ -1,4 +1,4 @@
-### Hi there, I'm Jerry - aka [codeSTACKr][website] 👋
+# [Jerry Chang][website] from Taiwan[codeSTACKr][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
