@@ -1,11 +1,11 @@
-# [Jerry Chang][website] from Taiwan[codeSTACKr][website] 👋
+# [Jerry Chang][website] from Taiwan 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm a Student, Developer, and Teacher!
+- 🔭 I’m currently working on a [Lung cancer cytological detection][website]!
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play baseball⚾️ and basketball🏀
 
 ## EDUCATION
 #### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan		   09/2018 - 06/2021
