@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Teacher!
 - 🔬 I’m currently working on a "Lung cancer cytological detection"!
 - 🌱 I’m currently learning everything
-- 🎟 I’m looking for advanced Computer Science Master's degree
+- 🎫 I’m looking for advanced Computer Science Master's degree
 - 🎯 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play baseball⚾️ and basketball🏀
 
