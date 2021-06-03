@@ -11,6 +11,6 @@
 #### Put your input images into file "test_case_whole"
 ---
 #### Execute the diagnosis aid system by running code:
-'''javascript
+```
 python diagnose.py
-'''
+```
