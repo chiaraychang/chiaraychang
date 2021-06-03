@@ -1,7 +1,7 @@
 # [Jerry Chang][linkedin] from Taiwan 👋
 
 ## I'm a Student, Developer, and Researcher!
-- 🎫 I’m admitted to USC MSCS 2022 Spring program 🏫
+- 🏫 I’m admitted to USC MSCS 2022 Spring program 🏫
 - 🔬 I’m currently working on "Plasma current signal classification with neural networks"!
 - 🌱 I’m currently learning everything
 - 🎯 2021 Goals: Contribute more to Open Source projects
