@@ -9,12 +9,16 @@
 
 ---
 ## EDUCATION🎓
-#### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan		   09/2018 - 06/2021
+#### University of Southern California (USC), Computer Science (M.S.) - USA🇺🇸        01/2022 (Admitted)
+#### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan🇹🇼		   09/2018 - 11/2021
  - Achieved GPA 3.85/4.3, major in Machine Learning
  - Key courses completed: Digital image processing, Data Structures and Object-oriented Programming, Operating system, Discrete math, Algorithm, Deep Learning and Practice, Deep Learning Systems and Inference Realization, Javascript web programming, Linear algebra, Statistics
-#### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2018 - 06/2021
-#### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2014 - 06/2018
-#### English Language Summer Course, Oxford School of English - UK			   06/2014 - 08/2014
+#### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan🇹🇼	   09/2018 - 11/2021
+#### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan🇹🇼	   09/2014 - 06/2018
+#### English Language Summer Course, Oxford School of English - UK🇬🇧			   06/2014 - 08/2014
+---
+## PUBLICATION▶️
+#### Effectiveness of Convolutional Neural Networks in the Interpretation of Pulmonary Cytologic Images in Endobronchial Ultrasound Procedures, Cancer Cytopathology (Submitted) 05/2021
 ---
 ## PROJECT EXPERIENCE💻
 #### Thesis Project - Automatic Diagnosis Aid System Based on Lung Cytological Images using Convolutional Neural Network, NCTU							   		   09/2019 - 06/2021
@@ -23,13 +27,13 @@
 #### School Project - Multi-Robot networked systems with reinforcement learning	 	   02/2017 –06/2017      
 ---
 ## AWARDS🏆
-#### Final round, Automated Optical Inspection, Microsoft x Taiwan Semiconductor Manufacturing Company (TSMC) CareerHack                       	   						   11/2019 - 02/2020
+#### 3rd place, Final Competition of Interns, Taiwan Semiconductor Manufacturing Company (TSMC)					   07/2020 - 09/2020
+ - Integrated circuit anomaly detection by PCA and CNN models for lithography machines
+#### Final round, Automated Optical Inspection, Microsoft x TSMC CareerHack                       	   						   11/2019 - 02/2020
  - Successfully classified defective fabric images from normal fabric images with only 10 training images by L0 gradient minimization, superpixel algorithm, and few-shot learning
  - Successfully got into the final competition and was selected top 20 out of over 1000 competitors
 #### 2nd place, Nickel Raw Material Price Forecast, AIdea AI Collaboration Platform	   09/2019 - 10/2019
  - Predicted the Nickel price of October 2019 using LSTM encoder-decoder architecture with attention layer
-#### 3rd place, Final Competition of TSMC Interns, TSMC					   07/2020 - 09/2020
- - Integrated circuit anomaly detection by PCA and CNN models for lithography machines
 ---
 ## WORK EXPERIENCE🖥️
 #### Information Technology Intern, TSMC - Taiwan 		 			   07/2020 - 09/2020
@@ -38,7 +42,7 @@
 #### SAA Internship offered, Microsoft Student Program - Taiwan					      06/2017
 ---
 ## RELEVANT SKILLS
- - Technical Skills: Python, Pytorch, NumPy, Keras, C/C++, R, HTML, CSS, Javascript, MATLAB, Arduino
+ - Technical Skills: Python, Pytorch, NumPy, Keras, C/C++, R, HTML, CSS, Javascript, PHP, SQL, MATLAB
  - Language: English, Mandarin, Taiwanese, Japanese
 ---
 ### Connect with me:
