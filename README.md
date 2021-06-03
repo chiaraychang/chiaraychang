@@ -9,13 +9,13 @@
 
 ---
 ## EDUCATION 🎓
-#### University of Southern California (USC), Computer Science (M.S.) - USA🇺🇸        01/2022 (Admitted)
-#### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan🇹🇼		   09/2018 - 11/2021
+#### University of Southern California (USC), Computer Science (M.S.) - USA        01/2022 (Admitted)
+#### Computer Software Program, National Chiao Tung University (NCTU) - Taiwan	   09/2018 - 11/2021
  - Achieved GPA 3.85/4.3, major in Machine Learning
  - Key courses completed: Digital image processing, Data Structures and Object-oriented Programming, Operating system, Discrete math, Algorithm, Deep Learning and Practice, Deep Learning Systems and Inference Realization, Javascript web programming, Linear algebra, Statistics
-#### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan🇹🇼	   09/2018 - 11/2021
-#### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan🇹🇼	   09/2014 - 06/2018
-#### English Language Summer Course, Oxford School of English - UK🇬🇧			   06/2014 - 08/2014
+#### Mechanical Engineering (M.S.), National Chiao Tung University (NCTU) - Taiwan   09/2018 - 11/2021
+#### Mechanical Engineering (B.S.), National Chiao Tung University (NCTU) - Taiwan	   09/2014 - 06/2018
+#### English Language Summer Course, Oxford School of English - UK🇧			   06/2014 - 08/2014
 ---
 ## PUBLICATION 📚
 #### Effectiveness of Convolutional Neural Networks in the Interpretation of Pulmonary Cytologic Images in Endobronchial Ultrasound Procedures, Cancer Cytopathology (Submitted) 05/2021
