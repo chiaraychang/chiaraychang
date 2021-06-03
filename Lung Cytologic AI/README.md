@@ -10,7 +10,9 @@
 - Put your input images into file "test_case_whole"
 ---
 ## Setup environmnet
-
+```
+pip install -r requirements.txt
+```
 ---
 ## Execute the diagnosis aid system by running code:
 ```
